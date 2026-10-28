@@ -93,7 +93,3 @@ Contributions, suggestions, and bug reports are welcome. Before making significa
 2. Create a feature branch.
 3. Make your changes and test them.
 4. Open a pull request describing your contribution.
-
-## License
-
-Check the repository for license information before using or distributing this project.
